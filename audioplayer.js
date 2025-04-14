@@ -33,12 +33,7 @@ var is_playing = false;
 // list of ooks with folder name and chapter count
 var books = [
   {title: "Assassin's Apprentice", folder: "assassins_apprentice", chapters: 2}
-  // , {title: "Artificial Condition", folder: "artificial_condition", chapters: 9},
-  // {title: "Rogue Protocol", folder: "rogue_protocol", chapters: 6},
-  // {title: "Exit Strategy", folder: "exit_strategy", chapters: 8},
-  // {title: "Network Effect", folder: "network_effect", chapters: 20},
-  // {title: "Fugitive Telemetry", folder: "fugitive_telemetry", chapters: 8},
-  // {title: "System Collapse", folder: "system_collapse", chapters: 12}
+  // , {title: "Assassin's Quest", folder: "assassins_quest", chapters: 41}
 ];
 
 // initialize and load first audio
